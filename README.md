@@ -1,4 +1,12 @@
-<h1>👋 Hi, I’m Jesse! <br/><a href="https://github.com/JPBeutel">Programmer</a>, <a href="https://www.linkedin.com/in/jesse-beutel/">Administrative Support</a>, <a href="https://twitter.com/BeutelJesse">Person</a></h1>
+<h1>👋 Hi, I’m Jesse! <br/><a href="https://github.com/JPBeutel">Programmer</a>, <a href="https://www.linkedin.com/in/jesse-beutel/">Support Professional</a>, <a href="https://twitter.com/BeutelJesse">Person</a></h1>
+
+<h2>Top Projects</h2>
+
+- <b>Python</b>
+
+- <b>Powershell</b>
+
+- <b>Full Stack Applications</b>
 
 <h2> 📫 How to reach me ... </h2>
 
