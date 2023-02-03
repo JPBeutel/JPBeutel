@@ -1,4 +1,4 @@
-<h1>👋 Hi, I’m Jesse! <br/><a href="https://github.com/JPBeutel">Developer</a>, <a href="https://www.linkedin.com/in/jesse-beutel/">Administrator</a>, <a href="https://twitter.com/BeutelJesse">Person</a></h1>
+<h1>👋 Hi, I’m Jesse! <br/><a href="https://github.com/JPBeutel">Programmer</a>, <a href="https://www.linkedin.com/in/jesse-beutel/">Administrative Support</a>, <a href="https://twitter.com/BeutelJesse">Person</a></h1>
 
 <h2> 📫 How to reach me ... </h2>
 
